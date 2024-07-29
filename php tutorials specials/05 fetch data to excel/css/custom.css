@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	max-width: 100%;
+	scroll-behavior: smooth;
+}
+
+.container{
+	width: 80%;
+	margin: 2rem auto;
+}
+
+#table{
+	width: 100%;
+	margin: 1rem auto;
+}

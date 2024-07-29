@@ -1,0 +1,27 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+#table{
+	border-collapse: collapse;
+	width: 80%;
+	margin: 1rem auto;
+}
+
+#table td{
+	text-align: center;
+}
+
+.container{
+	width: 80%;
+	text-align: right;
+	text-transform: uppercase;
+	font: bolder;
+}
+
+textarea{
+	resize: none;
+}
